@@ -1,0 +1,1 @@
+/Users/ankitbarana/Desktop/git/241/fa23-lab6-ankit_khalid/target/debug/ps: /Users/ankitbarana/Desktop/git/241/fa23-lab6-ankit_khalid/src/bin/ps.rs /Users/ankitbarana/Desktop/git/241/fa23-lab6-ankit_khalid/src/lib.rs /Users/ankitbarana/Desktop/git/241/fa23-lab6-ankit_khalid/src/proc.rs

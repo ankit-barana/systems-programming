@@ -1,0 +1,1 @@
+/Users/ankitbarana/Desktop/git/241/fa23-lab8-abarana-kdualeh/target/debug/osh: /Users/ankitbarana/Desktop/git/241/fa23-lab8-abarana-kdualeh/src/input.rs /Users/ankitbarana/Desktop/git/241/fa23-lab8-abarana-kdualeh/src/main.rs /Users/ankitbarana/Desktop/git/241/fa23-lab8-abarana-kdualeh/src/pipeline.rs

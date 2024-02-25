@@ -1,0 +1,11 @@
+/Users/ankitbarana/Desktop/git/241/fa23-lab4-ankit-khalid/wordle/target/debug/deps/colored-fee4ec182d0772cf.rmeta: /Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/lib.rs /Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/color.rs /Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/control.rs /Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/style.rs /Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/customcolors.rs
+
+/Users/ankitbarana/Desktop/git/241/fa23-lab4-ankit-khalid/wordle/target/debug/deps/libcolored-fee4ec182d0772cf.rlib: /Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/lib.rs /Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/color.rs /Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/control.rs /Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/style.rs /Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/customcolors.rs
+
+/Users/ankitbarana/Desktop/git/241/fa23-lab4-ankit-khalid/wordle/target/debug/deps/colored-fee4ec182d0772cf.d: /Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/lib.rs /Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/color.rs /Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/control.rs /Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/style.rs /Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/customcolors.rs
+
+/Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/lib.rs:
+/Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/color.rs:
+/Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/control.rs:
+/Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/style.rs:
+/Users/ankitbarana/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colored-2.0.4/src/customcolors.rs:
